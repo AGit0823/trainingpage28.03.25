@@ -43,7 +43,7 @@
     position: static;
     padding: 81px 0;
     min-height: 621px;
-    background-image: url(./hero-1024-img.png);
+    background-image: url(hero-1024-img.png);
   }
 
   .hero__content {
