@@ -105,7 +105,7 @@ body {
   padding: 0;
   border: none;
   background-color: transparent;
-  cursor: url(../cursor-img.svg), pointer;
+  cursor: url(./cursor-img.svg), pointer;
 }
 
 .btn {
@@ -362,7 +362,7 @@ body {
   padding-bottom: calc(var(--section-offset) + 26px);
   min-height: 800px;
   background-color: gray;
-  background-image: url(../hero-1920-img.png);
+  background-image: url(./hero-1920-img.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -574,7 +574,7 @@ body {
   top: 50%;
   width: 14px;
   height: 14px;
-  background-image: url(../checkbox-active-img.svg);
+  background-image: url(./checkbox-active-img.svg);
   -webkit-transform: translate(28%, -17%);
       -ms-transform: translate(28%, -17%);
           transform: translate(28%, -17%);
