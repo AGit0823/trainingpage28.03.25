@@ -17,7 +17,7 @@ a {
   color: inherit;
   text-decoration: none;
   outline: none;
-  cursor: url(../cursor-img.svg), pointer;
+  cursor: url(./cursor-img.svg), pointer;
   /**/
 }
 
@@ -459,7 +459,7 @@ body {
 .gallery {
   padding: var(--section-offset) 0;
   background-color: gray;
-  background-image: url(../gallery-bg-1920-img.png);
+  background-image: url(./gallery-bg-1920-img.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -520,7 +520,7 @@ body {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  cursor: url(../cursor-img.svg), pointer;
+  cursor: url(./cursor-img.svg), pointer;
 }
 
 .gallery__checkbox:last-child {
@@ -1083,7 +1083,7 @@ body {
   -o-transition: var(--trans);
   transition: var(--trans);
   outline: none;
-  cursor: url(../cursor-img.svg), pointer;
+  cursor: url(./cursor-img.svg), pointer;
 }
 
 .input::-webkit-input-placeholder {
