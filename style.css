@@ -17,7 +17,7 @@ a {
   color: inherit;
   text-decoration: none;
   outline: none;
-  cursor: url(../img/cursor-img.svg), pointer;
+  cursor: url(../cursor-img.svg), pointer;
   /**/
 }
 
@@ -105,7 +105,7 @@ body {
   padding: 0;
   border: none;
   background-color: transparent;
-  cursor: url(../img/cursor-img.svg), pointer;
+  cursor: url(../cursor-img.svg), pointer;
 }
 
 .btn {
@@ -362,7 +362,7 @@ body {
   padding-bottom: calc(var(--section-offset) + 26px);
   min-height: 800px;
   background-color: gray;
-  background-image: url(../img/hero-1920-img.png);
+  background-image: url(../hero-1920-img.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -459,7 +459,7 @@ body {
 .gallery {
   padding: var(--section-offset) 0;
   background-color: gray;
-  background-image: url(../img/gallery-bg-1920-img.png);
+  background-image: url(../gallery-bg-1920-img.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -520,7 +520,7 @@ body {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  cursor: url(../img/cursor-img.svg), pointer;
+  cursor: url(../cursor-img.svg), pointer;
 }
 
 .gallery__checkbox:last-child {
@@ -574,7 +574,7 @@ body {
   top: 50%;
   width: 14px;
   height: 14px;
-  background-image: url(../img/checkbox-active-img.svg);
+  background-image: url(../checkbox-active-img.svg);
   -webkit-transform: translate(28%, -17%);
       -ms-transform: translate(28%, -17%);
           transform: translate(28%, -17%);
@@ -1083,7 +1083,7 @@ body {
   -o-transition: var(--trans);
   transition: var(--trans);
   outline: none;
-  cursor: url(../img/cursor-img.svg), pointer;
+  cursor: url(../cursor-img.svg), pointer;
 }
 
 .input::-webkit-input-placeholder {
