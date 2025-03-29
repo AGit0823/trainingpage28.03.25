@@ -43,7 +43,7 @@
     position: static;
     padding: 81px 0;
     min-height: 621px;
-    background-image: url(../img/hero-1024-img.png);
+    background-image: url(../hero-1024-img.png);
   }
 
   .hero__content {
@@ -62,7 +62,7 @@
   /*gallery*/
   .gallery {
     padding: var(--section-offset) 0;
-    background-image: url(../img/gallery-bg-1024-img.png);
+    background-image: url(../gallery-bg-1024-img.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -227,7 +227,7 @@
   /*hero*/
   .hero {
     padding: 67px 0 66px 0;
-    background-image: url(../img/hero-768-img.png);
+    background-image: url(../hero-768-img.png);
   }
 
   .hero__content {
@@ -240,7 +240,7 @@
 
   /*gallery*/
   .gallery {
-    background-image: url(../img/gallery-bg-768-img.png);
+    background-image: url(../gallery-bg-768-img.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -453,7 +453,7 @@
     min-height: 388px;
     padding-top: 108px;
     padding-bottom: 29px;
-    background-image: url(../img/hero-320-img.png);
+    background-image: url(../hero-320-img.png);
   }
 
   .hero__content {
@@ -502,7 +502,7 @@
 
   /*gallery*/
   .gallery {
-    background-image: url(../img/gallery-bg-320-img.png);
+    background-image: url(../gallery-bg-320-img.png);
   }
 
   .gallery__title {
